@@ -137,7 +137,7 @@ img {
         width: 100%;
     }
 
-    #lezioni .row > .left, #lezioni .row > .right {
+    #lessons .row > .left, #lessons .row > .right {
         padding: 0 10px;
     }
 
@@ -152,7 +152,7 @@ img {
 }
 
 @media screen and (max-width: 420px) {
-    #lezioni .row > .left, #lezioni .row > .right,
+    #lessons .row > .left, #lessons .row > .right,
     #steps .row > .left, #steps .row > .central, #steps .row > .right  {
         width: 100%;
         float: none;
